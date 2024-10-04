@@ -36,8 +36,7 @@
 
 Here's a screenshot of the bot after successfully claiming a code:
 
-![image](https://github.com/user-attachments/assets/1f59d7c5-f14b-4481-9638-1a8547d57bf7)
-
+![image](https://github.com/user-attachments/assets/5f607e76-17e8-48fb-acdc-a1f21e1e76dc)
 
 ## Promotion
 
