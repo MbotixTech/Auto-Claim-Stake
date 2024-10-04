@@ -42,11 +42,6 @@ Here's a screenshot of the bot after successfully claiming a code:
 
 This bot is currently not available publicly in any marketplace. To try it out or for more information, please contact me directly on Telegram at [MbotixTech](https://t.me/xiaogarpu).
 
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
